@@ -46,7 +46,7 @@ $$
 
 简图（1-based）
 
-<img src="F:\repo\Adder\LCA\LCA.jpg" style="zoom:30%;" />
+<img src="F:\repo\Adder\CLA\CLA.jpg" style="zoom:30%;" />
 
 
 
